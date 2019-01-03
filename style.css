@@ -61,6 +61,11 @@ small{
 .show-description small{
   opacity:1;  
 }
+
+/*
+Next section allow us to adapt and scale the website for devices that rendere the website from 500px above
+*/
+
 @media (max-width: 500px) {
   h1{
     font-size:50px;
